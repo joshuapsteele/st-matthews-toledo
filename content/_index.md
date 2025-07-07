@@ -47,8 +47,10 @@ Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)
 
 ## Contact Us
 
-Phone: (419) 473-1187  
-Email: stmatthews@bex.net
+Phone: <a href="tel:4194731187">(419) 473-1187</a>  
+Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>  
+Facebook: [facebook.com/smechurch](https://www.facebook.com/smechurch)  
+YouTube: [youtube.com/@stmatthewsepiscopalchurcht6968](https://www.youtube.com/@stmatthewsepiscopalchurcht6968)
 
 ## Our Pastor
 
