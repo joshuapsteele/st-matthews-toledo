@@ -4,9 +4,7 @@ date: 2025-07-07
 draft: false
 ---
 
-# Welcome to St. Matthew's Episcopal Church
-
-**Join Us for Prayer and Worship**
+# Join Us for Prayer and Worship
 
 We are a welcoming community of Jesus-followers in Toledo, Ohio, where all are invited to experience God's love through traditional Christian liturgy in a casual, spirit-filled environment. 
 
