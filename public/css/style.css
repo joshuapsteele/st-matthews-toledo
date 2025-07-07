@@ -1,17 +1,15 @@
-/* Enhanced styling for St. Matthew's Episcopal Church */
+/* Traditional styling for St. Matthew's Episcopal Church */
 
 :root {
     --episcopal-red: #C8102E;
     --episcopal-blue: #003366;
     --episcopal-gold: #FFD700;
     --warm-cream: #FEFDF7;
-    --soft-gray: #F8F9FA;
-    --text-dark: #2C3E50;
-    --text-medium: #5D6D7E;
-    --text-light: #85929E;
+    --text-dark: #333333;
+    --text-medium: #666666;
+    --text-light: #888888;
     --white: #FFFFFF;
     --shadow-light: rgba(0, 0, 0, 0.1);
-    --shadow-medium: rgba(0, 0, 0, 0.15);
 }
 
 * {
@@ -33,22 +31,19 @@ body {
     padding: 0 20px;
 }
 
-/* Header Improvements */
+/* Header */
 header {
     text-align: center;
     background-color: var(--white);
-    border-bottom: 4px solid var(--episcopal-red);
+    border-bottom: 3px solid var(--episcopal-red);
     padding: 2rem 0;
-    box-shadow: 0 2px 10px var(--shadow-light);
 }
 
 .site-title a {
     color: var(--episcopal-blue);
     text-decoration: none;
-    font-size: 2.2rem;
+    font-size: 2rem;
     font-weight: bold;
-    letter-spacing: -0.5px;
-    transition: color 0.3s ease;
 }
 
 .site-title a:hover {
@@ -59,82 +54,50 @@ header {
     color: var(--text-medium);
     font-style: italic;
     margin-top: 0.5rem;
-    font-size: 1.1rem;
-    font-weight: 300;
+    font-size: 1rem;
 }
 
-/* Main Content Enhancements */
+/* Main Content */
 main {
-    padding: 4rem 0;
+    padding: 3rem 0;
     min-height: 70vh;
 }
 
 .homepage {
     background-color: var(--white);
-    padding: 3rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 20px var(--shadow-light);
-    margin-bottom: 3rem;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px var(--shadow-light);
+    margin-bottom: 2rem;
 }
 
 .homepage h1 {
     color: var(--episcopal-blue);
-    font-size: 2.8rem;
-    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
     text-align: center;
     font-weight: bold;
-    letter-spacing: -0.5px;
-    position: relative;
-}
-
-.homepage h1::after {
-    content: '';
-    display: block;
-    width: 80px;
-    height: 3px;
-    background-color: var(--episcopal-red);
-    margin: 1rem auto;
-}
-
-/* Subtitle styling */
-.homepage p:first-of-type strong {
-    display: block;
-    font-size: 1.3rem;
-    color: var(--episcopal-red);
-    margin-bottom: 1.5rem;
-    text-align: center;
-    font-weight: 600;
 }
 
 .homepage h2 {
     color: var(--episcopal-red);
-    font-size: 1.9rem;
-    margin: 2.5rem 0 1.5rem 0;
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem 0;
     border-bottom: 2px solid var(--episcopal-red);
-    padding-bottom: 0.75rem;
-    position: relative;
-}
-
-.homepage h2::before {
-    content: '';
-    position: absolute;
-    bottom: -2px;
-    left: 0;
-    width: 50px;
-    height: 2px;
-    background-color: var(--episcopal-gold);
+    padding-bottom: 0.5rem;
 }
 
 .homepage h3 {
     color: var(--episcopal-blue);
-    margin: 2rem 0 1rem 0;
-    font-size: 1.3rem;
+    margin: 1.5rem 0 0.5rem 0;
+    font-size: 1.2rem;
 }
 
 .homepage p {
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
     font-size: 1.1rem;
-    line-height: 1.8;
+    line-height: 1.7;
+    color: var(--text-dark);
 }
 
 /* Worship Callout Styling */
@@ -177,8 +140,34 @@ main {
     opacity: 0.95;
 }
 
+.worship-location a {
+    color: var(--white);
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 255, 255, 0.5);
+}
+
+.worship-location a:hover {
+    text-decoration-color: var(--white);
+    opacity: 1;
+}
+
+.children-service-note {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    color: var(--white);
+    opacity: 0.9;
+    font-style: italic;
+}
+
 .homepage ul {
     margin: 1rem 0;
+    padding-left: 1.5rem;
+}
+
+.homepage li {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+    color: var(--text-dark);
 }
 
 /* Embedded Map in Content */
@@ -216,85 +205,70 @@ main {
     box-shadow: 0 4px 12px rgba(200, 16, 46, 0.3);
 }
 
-/* Enhanced Footer */
+/* Footer */
 footer {
     background-color: var(--episcopal-blue);
     color: var(--white);
-    padding: 3rem 0 1.5rem 0;
-    margin-top: 4rem;
+    padding: 2rem 0 1rem 0;
+    margin-top: 3rem;
 }
 
 .footer-content {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 3rem;
-    margin-bottom: 2rem;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .footer-content h3 {
-    color: var(--episcopal-gold);
+    color: var(--episcopal-red);
     margin-bottom: 1rem;
-    font-size: 1.2rem;
-    border-bottom: 2px solid var(--episcopal-red);
-    padding-bottom: 0.5rem;
-    display: inline-block;
+    font-size: 1.1rem;
 }
 
 .footer-content p {
-    line-height: 1.6;
+    line-height: 1.5;
     margin-bottom: 0.5rem;
 }
 
 .footer-content a {
     color: var(--white);
     text-decoration: underline;
-    transition: color 0.3s ease;
 }
 
 .footer-content a:hover {
-    color: var(--episcopal-gold);
+    color: var(--episcopal-red);
 }
 
 .footer-bottom {
     border-top: 1px solid rgba(255,255,255,0.2);
-    padding-top: 1.5rem;
+    padding-top: 1rem;
     text-align: center;
     color: rgba(255,255,255,0.8);
 }
 
 .footer-bottom p:last-child {
     font-style: italic;
-    color: var(--episcopal-gold);
     margin-top: 0.5rem;
 }
 
-/* Responsive Design Improvements */
+/* Responsive Design */
 @media (max-width: 768px) {
     .homepage {
-        padding: 2rem 1.5rem;
-        margin: 0 1rem 2rem 1rem;
+        padding: 1.5rem;
+        margin: 0 1rem 1rem 1rem;
     }
     
     .homepage h1 {
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
     
     .site-title a {
         font-size: 1.8rem;
     }
     
-    .cta-grid {
-        grid-template-columns: 1fr;
-        gap: 1.5rem;
-    }
-    
     .container {
         padding: 0 15px;
-    }
-    
-    .call-to-action {
-        margin: 2rem 1rem 0 1rem;
-        padding: 2rem 1.5rem;
     }
     
     .embedded-map iframe {
@@ -312,7 +286,7 @@ footer {
 
 @media (max-width: 480px) {
     .homepage h1 {
-        font-size: 1.9rem;
+        font-size: 1.8rem;
     }
     
     .worship-callout {
@@ -321,21 +295,13 @@ footer {
     }
     
     .worship-callout h2 {
-        font-size: 1.8rem !important;
-    }
-    
-    .worship-location {
-        font-size: 1.1rem;
-    }
-    
-    .cta-item {
-        padding: 1.5rem 1rem;
+        font-size: 1.6rem !important;
     }
 }
 
-/* Accessibility Improvements */
+/* Accessibility */
 @media (prefers-reduced-motion: reduce) {
-    .btn, .cta-item, .site-title a {
+    .btn, .site-title a {
         transition: none;
     }
 }

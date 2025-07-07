@@ -6,18 +6,16 @@ draft: false
 
 # Join Us for Prayer and Worship
 
-We are a welcoming Christian community in Toledo, Ohio, seeking to follow Jesus Christ in the power of the Holy Spirit, equipping disciples to build up the Kingdom of God. 
-
-Please join us for prayer and worship! All are welcome. Whether you're seeking a church home or simply curious about faith, we'd love to meet you.
-
 <div class="worship-callout">
-<h2>Sunday Worship</h2>
-<div class="worship-times">9:00 AM & 10:30 AM</div>
+<h2>Sundays at 9:00 AM & 10:30* AM</h2>
 <div class="worship-location">
-5240 Talmadge Road<br>
-Toledo, OH 43623
+<a href="https://maps.app.goo.gl/nhw8tucEbHPXmDCs5">5240 Talmadge Road<br>
+Toledo, OH 43623</a>
 </div>
+<div class="children-service-note">*Children's service during the 10:30 AM service</div>
 </div>
+
+We are a welcoming Christian community in Toledo, Ohio, seeking to follow Jesus Christ in the power of the Holy Spirit, equipping disciples to build up the Kingdom of God. 
 
 Each Sunday, we gather to:
 
@@ -26,14 +24,13 @@ Each Sunday, we gather to:
 - 📖 **hear the Bible read and preached**,
 - 🍞🍷 **celebrate the [Holy Eucharist](https://www.episcopalchurch.org/glossary/eucharist/)** (also known as Holy Communion or the Lord's Supper).  
 
-
 We also have a special **service for children during the 10:30 AM service**, where they can learn about God's love in a fun and engaging way.
 
 ## Visit Us
 
-[St. Matthew's Episcopal Church](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)  
-5240 Talmadge Road  
-Toledo, OH 43623
+St. Matthew's Episcopal Church  
+[5240 Talmadge Road  
+Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)
 
 <div class="embedded-map">
 <iframe 
@@ -50,8 +47,8 @@ Toledo, OH 43623
 
 ## Contact Us
 
-Phone: <a href="tel:(419) 473-1187">(419) 473-1187</a>  
-Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
+Phone: (419) 473-1187  
+Email: stmatthews@bex.net
 
 ## Our Pastor
 
