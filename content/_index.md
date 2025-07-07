@@ -14,7 +14,6 @@ Please join us for prayer and worship! All are welcome. Whether you're seeking a
 <h2>Sunday Worship</h2>
 <div class="worship-times">9:00 AM & 10:30 AM</div>
 <div class="worship-location">
-St. Matthew's Episcopal Church<br>
 5240 Talmadge Road<br>
 Toledo, OH 43623
 </div>
@@ -25,7 +24,7 @@ Each Sunday, we gather to:
 - 🙏 **pray**,
 - 🙌 **worship**,
 - 📖 **hear the Bible read and preached**,
-- 🍞🍷 **celebrate the Holy Eucharist** (also known as Holy Communion or the Lord's Supper).  
+- 🍞🍷 **celebrate the [Holy Eucharist](https://www.episcopalchurch.org/glossary/eucharist/)** (also known as Holy Communion or the Lord's Supper).  
 
 
 We also have a special **service for children during the 10:30 AM service**, where they can learn about God's love in a fun and engaging way.
@@ -51,8 +50,8 @@ Toledo, OH 43623
 
 ## Contact Us
 
-Phone: (419) 473-1187  
-Email: stmatthews@bex.net
+Phone: <a href="tel:(419) 473-1187">(419) 473-1187</a>  
+Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
 
 ## Our Pastor
 
