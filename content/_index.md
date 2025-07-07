@@ -8,7 +8,9 @@ draft: false
 
 **Join Us for Prayer and Worship**
 
-We are a welcoming Christian community in Toledo, Ohio, where all are invited to experience God's love through traditional liturgy in a casual, spirit-filled environment. Whether you're seeking a church home or simply curious about faith, we'd love to meet you.
+We are a welcoming community of Jesus-followers in Toledo, Ohio, where all are invited to experience God's love through traditional Christian liturgy in a casual, spirit-filled environment. 
+
+Please join us for worship! Whether you're seeking a church home or simply curious about faith, we'd love to meet you.
 
 ## Sunday Worship: 9:00 AM & 10:30 AM
 
@@ -34,7 +36,3 @@ Father Zeke Coughlin, Rector
 ## Our Mission
 
 To follow Jesus Christ in the power of the Holy Spirit, equipping disciples to build up the Kingdom of God.
-
----
-
-*We look forward to welcoming you into our church family. Come as you are – God's love is for everyone.*
