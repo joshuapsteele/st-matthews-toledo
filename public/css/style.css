@@ -137,104 +137,69 @@ main {
     line-height: 1.8;
 }
 
-.homepage strong {
-    color: var(--episcopal-red);
-    font-weight: 600;
-}
-
-/* Service Times Highlight */
-.homepage h2:first-of-type {
+/* Worship Callout Styling */
+.worship-callout {
     background-color: var(--episcopal-blue);
     color: var(--white);
-    padding: 1rem 1.5rem;
+    padding: 2rem;
     border-radius: 8px;
-    border: none;
     text-align: center;
-    margin: 2rem 0;
-    font-size: 1.6rem;
+    margin: 2rem 0 3rem 0;
+    box-shadow: 0 2px 8px var(--shadow-light);
 }
 
-.homepage h2:first-of-type::before {
-    display: none;
+.worship-callout h2 {
+    color: var(--white) !important;
+    font-size: 1.8rem !important;
+    margin: 0 0 1rem 0 !important;
+    border: none !important;
+    padding: 0 !important;
+    background: none !important;
+    border-radius: 0 !important;
+}
+
+.worship-callout h2::before {
+    display: none !important;
+}
+
+.worship-times {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    color: var(--white);
+}
+
+.worship-location {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-top: 1.5rem;
+    color: var(--white);
+    opacity: 0.95;
 }
 
 /* Enhanced Lists */
 .homepage ul {
-    list-style: none;
     padding-left: 0;
     margin: 1rem 0;
 }
 
 .homepage li {
-    padding: 0.5rem 0;
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: var(--episcopal-blue);
+    padding: 0;
+    font-size: 1.1rem;
 }
 
-.homepage li::before {
-    content: '⛪ ';
-    margin-right: 0.5rem;
-    color: var(--episcopal-red);
+/* Embedded Map in Content */
+.embedded-map {
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px var(--shadow-light);
 }
 
-/* Enhanced Call to Action Section */
-.call-to-action {
-    background-color: var(--episcopal-blue);
-    color: var(--white);
-    padding: 2rem;
-    border-radius: 12px;
-    margin-top: 0;
-    box-shadow: 0 6px 25px var(--shadow-medium);
-}
-
-.call-to-action h2 {
-    color: var(--white) !important;
-    text-align: center;
-    border: none !important;
-    margin: 0 !important;
-    font-size: 2rem !important;
-    background-color: transparent !important;
-    padding: 0 !important;
-    border-radius: 0 !important;
-}
-
-.call-to-action h2::before {
-    display: none;
-}
-
-.cta-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
-    margin-top: 2rem;
-}
-
-.cta-item {
-    background-color: var(--white);
-    color: var(--text-dark);
-    padding: 2rem 1.5rem;
-    border-radius: 10px;
-    text-align: center;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border-top: 4px solid var(--episcopal-red);
-}
-
-.cta-item:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-}
-
-.cta-item h3 {
-    color: var(--episcopal-blue);
-    margin-bottom: 1rem;
-    font-size: 1.3rem;
-}
-
-.cta-item p {
-    color: var(--text-medium);
-    margin-bottom: 0.5rem;
+.embedded-map iframe {
+    width: 100%;
+    border: none;
+    display: block;
 }
 
 .btn {
@@ -339,6 +304,10 @@ footer {
         padding: 2rem 1.5rem;
     }
     
+    .embedded-map iframe {
+        height: 250px;
+    }
+    
     header {
         padding: 1.5rem 0;
     }
@@ -353,9 +322,21 @@ footer {
         font-size: 1.9rem;
     }
     
-    .homepage h2:first-of-type {
-        font-size: 1.4rem;
-        padding: 0.8rem 1rem;
+    .worship-callout {
+        padding: 1.5rem 1rem;
+        margin: 1.5rem 0 2rem 0;
+    }
+    
+    .worship-callout h2 {
+        font-size: 1.8rem !important;
+    }
+    
+    .worship-times {
+        font-size: 2rem;
+    }
+    
+    .worship-location {
+        font-size: 1.1rem;
     }
     
     .cta-item {

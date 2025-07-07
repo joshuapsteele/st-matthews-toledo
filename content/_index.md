@@ -6,31 +6,54 @@ draft: false
 
 # Join Us for Prayer and Worship
 
-We are a welcoming community of Jesus-followers in Toledo, Ohio, where all are invited to experience God's love through traditional Christian liturgy in a casual, spirit-filled environment. 
+We are a welcoming Christian community in Toledo, Ohio, seeking to follow Jesus Christ in the power of the Holy Spirit, equipping disciples to build up the Kingdom of God. 
 
-Please join us for worship! Whether you're seeking a church home or simply curious about faith, we'd love to meet you.
+Please join us for prayer and worship! All are welcome. Whether you're seeking a church home or simply curious about faith, we'd love to meet you.
 
-## Sunday Worship: 9:00 AM & 10:30 AM
+<div class="worship-callout">
+<h2>Sunday Worship</h2>
+<div class="worship-times">9:00 AM & 10:30 AM</div>
+<div class="worship-location">
+St. Matthew's Episcopal Church<br>
+5240 Talmadge Road<br>
+Toledo, OH 43623
+</div>
+</div>
 
-**Holy Eucharist, Contemporary Language (Rite II)**
-- **9:00 AM**
-- **10:30 AM**
+Each Sunday, we gather to:
 
-*All are welcome at God's table.*
+- 🙏 **pray**,
+- 🙌 **worship**,
+- 📖 **hear the Bible read and preached**,
+- 🍞🍷 **celebrate the Holy Eucharist** (also known as Holy Communion or the Lord's Supper).  
+
+
+We also have a special **service for children during the 10:30 AM service**, where they can learn about God's love in a fun and engaging way.
 
 ## Visit Us
 
-**St. Matthew's Episcopal Church**  
+[St. Matthew's Episcopal Church](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)  
 5240 Talmadge Road  
 Toledo, OH 43623
 
-**Contact Us**  
+<div class="embedded-map">
+<iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2975.7348387!2d-83.6443802!3d41.7101462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883c7e50a635dcc7%3A0x205b8cb484e0b92c!2sSt%20Matthew's%20Episcopal%20Church!5e0!3m2!1sen!2sus!4v1625097600000!5m2!1sen!2sus"
+    width="100%" 
+    height="300" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade"
+    title="St. Matthew's Episcopal Church Location">
+</iframe>
+</div>
+
+## Contact Us
+
 Phone: (419) 473-1187  
 Email: stmatthews@bex.net
 
-**Our Pastor**  
+## Our Pastor
+
 Father Zeke Coughlin, Rector
-
-## Our Mission
-
-To follow Jesus Christ in the power of the Holy Spirit, equipping disciples to build up the Kingdom of God.

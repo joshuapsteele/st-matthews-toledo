@@ -50,9 +50,9 @@
             <div class="footer-content">
                 <div class="contact-info">
                     <h3>Contact Us</h3>
-                    <p>{{ .Site.Params.address }}</p>
-                    <p>Phone: {{ .Site.Params.phone }}</p>
-                    <p>Email: <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+                    <p>{{ .Site.Params.address | safeHTML }}</p>
+                    <p>Phone: {{ .Site.Params.phone | safeHTML }}</p>
+                    <p>Email: <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email | safeHTML }}</a></p>
                 </div>
                 <div class="worship-times">
                     <h3>Sunday Worship</h3>
