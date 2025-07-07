@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+    
+    <!-- Episcopal Church colors and clean styling -->
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    
+    <!-- Schema.org markup for better SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Church",
+      "name": "St. Matthew's Episcopal Church",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5240 Talmadge Road",
+        "addressLocality": "Toledo",
+        "addressRegion": "OH",
+        "postalCode": "43623"
+      },
+      "telephone": "{{ .Site.Params.phone }}",
+      "email": "{{ .Site.Params.email }}",
+      "url": "{{ .Site.BaseURL }}",
+      "denomination": "Episcopal"
+    }
+    </script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <h1 class="site-title">
+                    <a href="{{ .Site.BaseURL }}">St. Matthew's Episcopal Church</a>
+                </h1>
+                <p class="tagline">Toledo, Ohio</p>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="contact-info">
+                    <h3>Contact Us</h3>
+                    <p>{{ .Site.Params.address }}</p>
+                    <p>Phone: {{ .Site.Params.phone }}</p>
+                    <p>Email: <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+                </div>
+                <div class="worship-times">
+                    <h3>Sunday Worship</h3>
+                    <p>Holy Eucharist, Rite II</p>
+                    <p>9:00 AM & 10:30 AM</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; {{ now.Year }} St. Matthew's Episcopal Church, Toledo, OH</p>
+                <p><em>All are welcome</em></p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

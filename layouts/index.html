@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container">
+    <article class="homepage">
+        {{ .Content }}
+        
+        <section class="call-to-action">
+            <h2>Plan Your Visit</h2>
+            <div class="cta-grid">
+                <div class="cta-item">
+                    <h3>📍 Find Us</h3>
+                    <p>{{ .Site.Params.address }}</p>
+                    <a href="https://maps.google.com/?q={{ .Site.Params.address | urlize }}" target="_blank" class="btn">Get Directions</a>
+                </div>
+                <div class="cta-item">
+                    <h3>📞 Contact Us</h3>
+                    <p>{{ .Site.Params.phone }}</p>
+                    <a href="mailto:{{ .Site.Params.email }}" class="btn">Send Email</a>
+                </div>
+                <div class="cta-item">
+                    <h3>⛪ Join Us Sunday</h3>
+                    <p>9:00 AM or 10:30 AM</p>
+                    <p><em>Come as you are</em></p>
+                </div>
+            </div>
+        </section>
+    </article>
+</div>
+{{ end }}

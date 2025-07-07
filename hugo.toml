@@ -1,0 +1,15 @@
+baseURL = 'https://stmatthewstoledo.org'
+languageCode = 'en-us'
+title = "St. Matthew's Episcopal Church - Toledo, OH"
+
+[params]
+  description = "Welcome to St. Matthew's Episcopal Church in Toledo, Ohio. Join us for worship, fellowship, and community."
+  phone = "(419) 473-1187"
+  email = "stmatthews@bex.net"
+  address = "5240 Talmadge Rd, Toledo, OH 43623"
+  pastor = "Father Zeke Coughlin"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
