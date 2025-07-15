@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to St. Matthew&#39;s Toledo on St. Matthew&#39;s Church - Toledo, OH</title>
-    <link>https://stmatthewstoledo.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to St. Matthew&#39;s Toledo on St. Matthew&#39;s Church - Toledo, OH</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://stmatthewstoledo.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About St. Matthew&#39;s Toledo</title>
-      <link>https://stmatthewstoledo.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://stmatthewstoledo.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;what-we-believe&#34;&gt;What We Believe&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;To know Christ and to make Him known.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;St. Matthew&amp;rsquo;s Toledo is a welcoming Christian community committed to this calling. We are part of the historic Anglican tradition, which traces its roots back to the Early Church through the Church of England and continues the apostolic faith handed down through the centuries.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-anglican-heritage&#34;&gt;Our Anglican Heritage&lt;/h2&gt;&#xA;&lt;p&gt;As Anglicans, we embrace the &amp;ldquo;via media&amp;rdquo; - a faithful middle way that maintains both catholic substance and evangelical truth. Our faith is grounded in the foundational documents that have shaped Anglican Christianity for centuries:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact St. Matthew&#39;s Toledo</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h1&gt;&#xA;&lt;p&gt;We would love to hear from you! Whether you have questions about our faith, want to know more about our worship services, or are interested in visiting, please don&amp;rsquo;t hesitate to reach out.&lt;/p&gt;&#xA;&lt;h2 id=&#34;church-information&#34;&gt;Church Information&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;St. Matthew&amp;rsquo;s Toledo&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://maps.app.goo.gl/nhw8tucEbHPXmDCs5&#34;&gt;5240 Talmadge Road&lt;br&gt;&#xA;Toledo, OH 43623&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; &lt;a href=&#34;tel:4194731187&#34;&gt;(419) 473-1187&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:stmatthews@bex.net&#34;&gt;&lt;a href=&#34;mailto:stmatthews@bex.net&#34;&gt;stmatthews@bex.net&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;worship-services&#34;&gt;Worship Services&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sunday Worship&lt;/strong&gt;&lt;br&gt;&#xA;9:00 AM &amp;amp; 10:30 AM&lt;br&gt;&#xA;&lt;em&gt;Children&amp;rsquo;s ministry during the 10:30 AM service&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Both services follow the historic Anglican liturgy and include Holy Communion. All are welcome to join us for worship, fellowship, and prayer.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
