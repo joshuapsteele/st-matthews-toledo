@@ -1,6 +1,6 @@
-# St. Matthew's Episcopal Church Website
+# St. Matthew's Church Website
 
-A simple, welcoming Hugo website for St. Matthew's Episcopal Church in Toledo, Ohio.
+A simple, welcoming Hugo website for St. Matthew's Church in Toledo, Ohio.
 
 ## Setup
 
@@ -15,7 +15,7 @@ A simple, welcoming Hugo website for St. Matthew's Episcopal Church in Toledo, O
 - **Events Calendar**: Add upcoming events and parish activities
 - **Ministries**: Detail various church ministries and outreach programs
 - **Staff**: Bios for Father Zeke Coughlin and other staff
-- **About/History**: Church history and Episcopal tradition
+- **About/History**: Church history and tradition
 - **Service Bulletins**: Weekly worship aids
 - **Photo Gallery**: Parish life and activities
 - **Online Giving**: Secure donation portal

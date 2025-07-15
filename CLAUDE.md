@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Hugo-based static website for St. Matthew's Episcopal Church in Toledo, Ohio. The site uses Hugo's simple templating system with minimal custom CSS for styling.
+This is a Hugo-based static website for St. Matthew's Church in Toledo, Ohio. The site uses Hugo's simple templating system with minimal custom CSS for styling.
 
 ## Essential Commands
 

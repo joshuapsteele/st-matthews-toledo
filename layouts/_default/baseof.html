@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <meta name="description" content="{{ .Site.Params.description }}">
-    
+
     <!-- Episcopal Church colors and clean styling -->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-    
+
     <!-- Schema.org markup for better SEO -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Church",
-      "name": "St. Matthew's Episcopal Church",
+      "name": "St. Matthew's Church",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "5240 Talmadge Road",
@@ -25,7 +25,7 @@
       "telephone": "{{ .Site.Params.phone }}",
       "email": "{{ .Site.Params.email }}",
       "url": "{{ .Site.BaseURL }}",
-      "denomination": "Episcopal"
+      "denomination": "Anglican"
     }
     </script>
 </head>
@@ -34,7 +34,7 @@
         <nav>
             <div class="container">
                 <h1 class="site-title">
-                    <a href="{{ .Site.BaseURL }}">St. Matthew's Episcopal Church</a>
+                    <a href="{{ .Site.BaseURL }}">St. Matthew's Church</a>
                 </h1>
                 <p class="tagline">Toledo, Ohio</p>
             </div>
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; {{ now.Year }} St. Matthew's Episcopal Church, Toledo, OH</p>
+                <p>&copy; {{ now.Year }} St. Matthew's Church, Toledo, OH</p>
                 <p><em>All are welcome</em></p>
             </div>
         </div>
