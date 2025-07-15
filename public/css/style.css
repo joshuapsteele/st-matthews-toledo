@@ -39,6 +39,35 @@ header {
     padding: 2rem 0;
 }
 
+.nav-menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+    padding: 0;
+}
+
+.nav-menu li a {
+    color: var(--burgundy);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.nav-menu li a:hover {
+    background-color: var(--burgundy);
+    color: var(--white);
+}
+
+.nav-menu li a:focus {
+    outline: 2px solid var(--antique-gold);
+    outline-offset: 2px;
+}
+
 .site-title a {
     color: var(--burgundy);
     text-decoration: none;
@@ -98,6 +127,69 @@ main {
     font-size: 1.1rem;
     line-height: 1.7;
     color: var(--text-dark);
+}
+
+/* Page Content */
+.page-content {
+    background-color: var(--white);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px var(--shadow-light);
+    margin-bottom: 2rem;
+}
+
+.page-content h1 {
+    color: var(--burgundy);
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.page-content h2 {
+    color: var(--burgundy);
+    font-size: 1.8rem;
+    margin: 2rem 0 1rem 0;
+    border-bottom: 2px solid var(--burgundy);
+    padding-bottom: 0.5rem;
+}
+
+.page-content h3 {
+    color: var(--burgundy);
+    margin: 1.5rem 0 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.page-content p {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: var(--text-dark);
+}
+
+.page-content ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+}
+
+.page-content li {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+    color: var(--text-dark);
+}
+
+.page-content strong {
+    color: var(--burgundy);
+    font-weight: 600;
+}
+
+.page-content a {
+    color: var(--burgundy);
+    text-decoration: underline;
+}
+
+.page-content a:hover {
+    color: var(--gold);
 }
 
 /* Worship Callout Styling */
@@ -259,7 +351,12 @@ footer {
         margin: 0 1rem 1rem 1rem;
     }
     
-    .homepage h1 {
+    .page-content {
+        padding: 1.5rem;
+        margin: 0 1rem 1rem 1rem;
+    }
+    
+    .homepage h1, .page-content h1 {
         font-size: 2rem;
     }
     
@@ -282,10 +379,19 @@ footer {
     main {
         padding: 2rem 0;
     }
+    
+    .nav-menu {
+        gap: 1rem;
+    }
+    
+    .nav-menu li a {
+        font-size: 1rem;
+        padding: 0.4rem 0.8rem;
+    }
 }
 
 @media (max-width: 480px) {
-    .homepage h1 {
+    .homepage h1, .page-content h1 {
         font-size: 1.8rem;
     }
     
@@ -296,6 +402,11 @@ footer {
     
     .worship-callout h2 {
         font-size: 1.6rem !important;
+    }
+    
+    .nav-menu {
+        flex-direction: column;
+        gap: 0.5rem;
     }
 }
 
