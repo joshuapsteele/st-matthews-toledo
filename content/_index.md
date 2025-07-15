@@ -32,7 +32,7 @@ We also have a special **service for children during the 10:30 AM service**. Chi
 
 St. Matthew's Toledo  
 [5240 Talmadge Road  
-Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)
+Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)  
 
 <div class="embedded-map">
 <iframe
@@ -49,8 +49,8 @@ Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)
 
 ## Contact Us
 
-Phone: <a href="tel:4194731187">(419) 473-1187</a>
-Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
+Phone: <a href="tel:4194731187">(419) 473-1187</a>  
+Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>  
 
 <div class="social-links">
 <a href="https://www.facebook.com/smechurch" target="_blank" rel="noopener" aria-label="Facebook">
