@@ -1,9 +1,9 @@
-/* Traditional styling for St. Matthew's Episcopal Church */
+/* Traditional styling for St. Matthew's Church */
 
 :root {
-    --episcopal-red: #C8102E;
-    --episcopal-blue: #003366;
-    --episcopal-gold: #FFD700;
+    --burgundy: #800020;
+    --gold: #CFB53B;
+    --antique-gold: #D4AF37;
     --warm-cream: #FEFDF7;
     --text-dark: #333333;
     --text-medium: #666666;
@@ -35,19 +35,19 @@ body {
 header {
     text-align: center;
     background-color: var(--white);
-    border-bottom: 3px solid var(--episcopal-red);
+    border-bottom: 3px solid var(--burgundy);
     padding: 2rem 0;
 }
 
 .site-title a {
-    color: var(--episcopal-blue);
+    color: var(--burgundy);
     text-decoration: none;
     font-size: 2rem;
     font-weight: bold;
 }
 
 .site-title a:hover {
-    color: var(--episcopal-red);
+    color: var(--gold);
 }
 
 .tagline {
@@ -72,7 +72,7 @@ main {
 }
 
 .homepage h1 {
-    color: var(--episcopal-blue);
+    color: var(--burgundy);
     font-size: 2.5rem;
     margin-bottom: 2rem;
     text-align: center;
@@ -80,15 +80,15 @@ main {
 }
 
 .homepage h2 {
-    color: var(--episcopal-red);
+    color: var(--burgundy);
     font-size: 1.5rem;
     margin: 2rem 0 1rem 0;
-    border-bottom: 2px solid var(--episcopal-red);
+    border-bottom: 2px solid var(--burgundy);
     padding-bottom: 0.5rem;
 }
 
 .homepage h3 {
-    color: var(--episcopal-blue);
+    color: var(--burgundy);
     margin: 1.5rem 0 0.5rem 0;
     font-size: 1.2rem;
 }
@@ -102,7 +102,7 @@ main {
 
 /* Worship Callout Styling */
 .worship-callout {
-    background-color: var(--episcopal-blue);
+    background-color: var(--burgundy);
     color: var(--white);
     padding: 2rem;
     border-radius: 8px;
@@ -186,7 +186,7 @@ main {
 
 .btn {
     display: inline-block;
-    background-color: var(--episcopal-red);
+    background-color: var(--gold);
     color: var(--white);
     padding: 0.8rem 2rem;
     text-decoration: none;
@@ -207,7 +207,7 @@ main {
 
 /* Footer */
 footer {
-    background-color: var(--episcopal-blue);
+    background-color: var(--burgundy);
     color: var(--white);
     padding: 2rem 0 1rem 0;
     margin-top: 3rem;
@@ -221,7 +221,7 @@ footer {
 }
 
 .footer-content h3 {
-    color: var(--episcopal-red);
+    color: var(--gold);
     margin-bottom: 1rem;
     font-size: 1.1rem;
 }
@@ -237,7 +237,7 @@ footer {
 }
 
 .footer-content a:hover {
-    color: var(--episcopal-red);
+    color: var(--gold);
 }
 
 .footer-bottom {
@@ -310,7 +310,7 @@ footer {
 .btn:focus,
 .site-title a:focus,
 footer a:focus {
-    outline: 3px solid var(--episcopal-gold);
+    outline: 3px solid var(--antique-gold);
     outline-offset: 2px;
 }
 
@@ -328,7 +328,7 @@ footer a:focus {
     justify-content: center;
     width: 40px;
     height: 40px;
-    background-color: var(--episcopal-blue);
+    background-color: var(--burgundy);
     color: var(--white);
     border-radius: 50%;
     text-decoration: none;
@@ -337,13 +337,13 @@ footer a:focus {
 }
 
 .social-links a:hover {
-    background-color: var(--episcopal-red);
+    background-color: var(--gold);
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .social-links a:focus {
-    outline: 3px solid var(--episcopal-gold);
+    outline: 3px solid var(--antique-gold);
     outline-offset: 2px;
 }
 
@@ -375,14 +375,14 @@ footer a:focus {
 }
 
 .footer-social-links a:hover {
-    background-color: var(--episcopal-red);
-    border-color: var(--episcopal-red);
+    background-color: var(--gold);
+    border-color: var(--gold);
     color: var(--white);
     transform: translateY(-2px);
 }
 
 .footer-social-links a:focus {
-    outline: 2px solid var(--episcopal-gold);
+    outline: 2px solid var(--antique-gold);
     outline-offset: 2px;
 }
 
