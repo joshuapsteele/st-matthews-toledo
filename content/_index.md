@@ -28,9 +28,23 @@ This means we:
 
 We also have a special **service for children during the 10:30 AM service**. Children rejoin their families right before we celebrate Holy Communion together.
 
-## Visit Us
+## First Time Visitors
 
-St. Matthew's Toledo  
+If you're planning to visit us for the first time, here are a few things that might be helpful:
+
+- **What to expect:** Our worship follows the Anglican tradition with liturgy, hymns, Scripture readings, and Holy Communion
+- **What to wear:** Come as you are - we welcome people in all styles of dress
+- **Children:** We have a special children's ministry during the 10:30 AM service
+- **Parking:** Free parking is available on-site
+- **Accessibility:** Our building is wheelchair accessible
+
+We believe that all people are created in God's image and are welcome at St. Matthew's Toledo. We look forward to meeting you!
+
+## Getting Here
+
+We're located on Talmadge Road in Toledo, Ohio. Parking is available on-site, and the church is accessible to all visitors.
+
+**St. Matthew's Toledo**  
 [5240 Talmadge Road  
 Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)  
 
@@ -47,7 +61,14 @@ Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)
 </iframe>
 </div>
 
-## Contact Us
+## Our Pastor
+
+**Father Zeke Coughlin, Rector**  
+Father Zeke is available for pastoral care, spiritual guidance, and questions about the Christian faith. Please feel free to [contact us](/contact) to schedule a meeting.
+
+## Connect With Us
+
+Stay connected with our community:
 
 Phone: <a href="tel:4194731187">(419) 473-1187</a>  
 Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>  
@@ -65,6 +86,6 @@ Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
 </a>
 </div>
 
-## Our Pastor
+---
 
-Father Zeke Coughlin, Rector
+*Questions about our faith, worship, or community? Don't hesitate to [reach out](/contact) - we'd love to hear from you.*
