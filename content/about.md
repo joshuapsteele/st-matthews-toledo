@@ -1,5 +1,5 @@
 ---
-title: "About St. Matthew's Toledo"
+title: "About St. Matthew's"
 date: 2025-07-15
 draft: false
 ---

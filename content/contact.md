@@ -1,10 +1,8 @@
 ---
-title: "Contact St. Matthew's Toledo"
+title: "Contact Us"
 date: 2025-07-15
 draft: false
 ---
-
-# Contact Us
 
 We would love to hear from you! Whether you have questions about our faith, want to know more about our worship services, or are interested in visiting, please don't hesitate to reach out.
 
