@@ -85,8 +85,9 @@ We also affirm the **Apostles' Creed** (our baptismal symbol) and the **Athanasi
 
 ### The Sacraments: Outward Signs of Inward Grace
 We celebrate two sacraments ordained by Christ:
+
 - **Holy Baptism** - our entry into Christ's Church and sign of new birth
-- **Holy Communion (Eucharist)** - our remembrance of Christ's sacrifice and the benefits we receive
+- **Holy Communion (Eucharist)** - more than just a remembrance of Christ's sacrifice, this is our real participation in His body and blood, though we don't specify exactly how this happens. We receive the benefits of His death and the strengthening of our souls.
 
 These are "outward and visible signs of inward and spiritual grace given unto us, ordained by Christ himself."
 
