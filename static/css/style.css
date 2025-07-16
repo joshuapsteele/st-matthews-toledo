@@ -291,7 +291,7 @@ main {
     font-size: 1.1rem;
     line-height: 1.7;
     color: var(--text-dark);
-    max-width: 65ch;
+    /* max-width: 65ch; */
 }
 
 /* Page Content */
@@ -347,7 +347,7 @@ main {
     font-size: 1.1rem;
     line-height: 1.7;
     color: var(--text-dark);
-    max-width: 65ch;
+    /* max-width: 65ch; */
 }
 
 .page-content ul {
@@ -530,10 +530,13 @@ footer::before {
 }
 
 .footer-content {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 3rem;
+    display: flex;
+    justify-content: center;
     margin-bottom: 2rem;
+}
+
+.contact-info {
+    text-align: center;
 }
 
 .footer-content h3 {
@@ -786,6 +789,7 @@ footer a:focus {
     display: flex;
     gap: 1.5rem;
     margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
     align-items: center;
 }
 
@@ -827,6 +831,7 @@ footer a:focus {
     gap: 1rem;
     margin-top: 1.5rem;
     align-items: center;
+    justify-content: center;
 }
 
 .footer-social-links a {

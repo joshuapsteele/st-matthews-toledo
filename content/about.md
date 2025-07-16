@@ -26,9 +26,7 @@ As Anglicans, we follow a "middle way" that balances both catholic tradition and
 Our faith is grounded in three foundational documents:
 - **The Book of Common Prayer** - our guide for worship and spiritual formation
 - **The Thirty-Nine Articles of Religion** - our doctrinal standards
-- **The Chicago-Lambeth Quadrilateral** - four essentials of Christian faith and order
-
-The Chicago-Lambeth Quadrilateral, adopted in 1886, identifies four essential elements that unite us with Christians throughout history and around the world.
+- **The Chicago-Lambeth Quadrilateral** - four essentials of Christian faith and order: Scripture, the Creeds, the Sacraments, and the Historic Episcopate
 
 ## Our Faith
 
@@ -99,8 +97,8 @@ We believe in the "one holy catholic and apostolic Church"—the universal body 
 ## Our Worship
 
 Our worship follows the historic Anglican liturgy from the Book of Common Prayer. Each Sunday we gather to:
-- **Pray** together, including the Lord's Prayer
-- **Worship** through traditional hymns, psalms, and liturgy
+- **Pray** together, including confessing our sins and praying the Lord's Prayer
+- **Worship** through traditional hymns, modern songs, psalms, and liturgy
 - **Hear God's Word** through Scripture readings and biblical preaching
 - **Celebrate Holy Communion** as the central act of our worship
 
@@ -114,7 +112,7 @@ We believe following Jesus requires both personal faith and community life. We e
 
 **Father Zeke Coughlin, Rector**
 
-Father Zeke leads our community with pastoral care, biblical teaching, and a heart for evangelism and discipleship. He is committed to helping each member grow in their relationship with Jesus Christ and in understanding the Anglican way.
+Father Zeke leads our community with pastoral care, biblical teaching, and a heart for discipleship. He is committed to helping each member grow in their relationship with Jesus Christ and in understanding the Anglican way.
 
 ---
 

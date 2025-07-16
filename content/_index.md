@@ -4,37 +4,28 @@ date: 2025-07-07
 draft: false
 ---
 
-# Join Us for Worship
+# To Know Christ and To Make Him Known
 
 <div class="worship-callout">
-<h2>Sundays at 9:00 AM & 10:30* AM</h2>
+<div class="worship-times">Sundays at 9:00 AM & 10:30* AM</div>
 <div class="worship-location">
 <a href="https://maps.app.goo.gl/nhw8tucEbHPXmDCs5">5240 Talmadge Road<br>
 Toledo, OH 43623</a>
 </div>
-<div class="children-service-note">*Children's ministry during the 10:30 AM service</div>
+<div class="children-service-note">*Children's ministry provided during the 10:30 service</div>
 </div>
 
-We are a welcoming Christian community in Toledo, Ohio, seeking **to know Jesus Christ and to make Him known**.
+We're a welcoming Christian community in the Anglican tradition, located in Toledo, Ohio. 
 
-Each Sunday, we gather to worship God, following the liturgy of the Anglican tradition.
-
-This means we:
-
-- **Pray**: We give thanks, confess our sins, and ask for God's healing, guidance, and blessings.
-- **Worship**: We speak well of God, singing hymns and modern songs.
-- **Hear the Bible**: We listen to the Word of God read and preached.
-- **Celebrate Holy Eucharist**: We meet Jesus at His Table, sharing in His body and blood.
-
-We also have a special **service for children during the 10:30 AM service**. Children rejoin their families right before we celebrate Holy Communion together.
+Our mission is simple: **to know Christ and to make Him known**. We invite you to explore our site, learn about our faith, and consider joining us for worship.
 
 ## First Time Visitors
 
 If you're planning to visit us for the first time, here are a few things that might be helpful:
 
-- **What to expect:** Our worship follows the Anglican tradition with liturgy, hymns, Scripture readings, and Holy Communion
+- **What to expect:** Our worship follows the Anglican tradition with liturgy, hymns, modern songs, Scripture readings, a sermon, and Holy Communion
 - **What to wear:** Come as you are - we welcome people in all styles of dress
-- **Children:** We have a special children's ministry during the 10:30 AM service
+- **Children:** We have a special children's ministry for ages 3 through high school during the 10:30 AM service
 - **Parking:** Free parking is available on-site
 - **Accessibility:** Our building is wheelchair accessible
 
@@ -61,11 +52,6 @@ Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)
 </iframe>
 </div>
 
-## Our Pastor
-
-**Father Zeke Coughlin, Rector**  
-Father Zeke is available for pastoral care, spiritual guidance, and questions about the Christian faith. Please feel free to [contact us](/contact) to schedule a meeting.
-
 ## Connect With Us
 
 Stay connected with our community:
@@ -86,6 +72,7 @@ Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
 </a>
 </div>
 
----
+## Our Pastor
 
-*Questions about our faith, worship, or community? Don't hesitate to [reach out](/contact) - we'd love to hear from you.*
+**Father Zeke Coughlin, Rector**  
+Father Zeke leads our community with pastoral care, biblical teaching, and a heart for discipleship. He is available for pastoral care, spiritual guidance, and questions about the Christian faith. Please feel free to [contact us](/contact) to schedule a meeting.
