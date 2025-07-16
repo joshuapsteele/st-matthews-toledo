@@ -21,10 +21,10 @@ Each Sunday, we gather to worship God, following the liturgy of the Anglican tra
 
 This means we:
 
-- 🙏 **Pray**: We give thanks, confess our sins, and ask for God's healing, guidance, and blessings.
-- 🙌 **Worship**: We speak well of God, singing hymns and modern songs.
-- 📖 **Hear the Bible**: We listen to the Word of God read and preached.
-- 🍞🍷 **Celebrate Holy Eucharist**: We meet Jesus at His Table, sharing in His body and blood.
+- **Pray**: We give thanks, confess our sins, and ask for God's healing, guidance, and blessings.
+- **Worship**: We speak well of God, singing hymns and modern songs.
+- **Hear the Bible**: We listen to the Word of God read and preached.
+- **Celebrate Holy Eucharist**: We meet Jesus at His Table, sharing in His body and blood.
 
 We also have a special **service for children during the 10:30 AM service**. Children rejoin their families right before we celebrate Holy Communion together.
 
