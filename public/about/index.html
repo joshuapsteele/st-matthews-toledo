@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About St. Matthew&#39;s Toledo | St. Matthew&#39;s Church - Toledo, OH</title>
@@ -24,7 +24,7 @@
       },
       "telephone": "(419) 473-1187",
       "email": "stmatthews@bex.net",
-      "url": "http:\/\/localhost:1313\/",
+      "url": "https:\/\/stmatthewstoledo.org\/",
       "denomination": "Anglican"
     }
     </script>
@@ -34,11 +34,16 @@
         <nav>
             <div class="container">
                 <h1 class="site-title">
-                    <a href="http://localhost:1313/">St. Matthew's Toledo</a>
+                    <a href="https://stmatthewstoledo.org/">St. Matthew's Toledo</a>
                 </h1>
                 <p class="tagline">To know Christ and to make Him known</p>
+                <button class="mobile-menu-toggle" aria-label="Toggle navigation menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
                 <ul class="nav-menu">
-                    <li><a href="http://localhost:1313/">Home</a></li>
+                    <li><a href="https://stmatthewstoledo.org/">Home</a></li>
                     <li><a href="/about">About</a></li>
                     <li><a href="/contact">Contact</a></li>
                 </ul>
@@ -58,7 +63,7 @@
 <h2 id="our-anglican-heritage">Our Anglican Heritage</h2>
 <p>As Anglicans, we embrace the &ldquo;via media&rdquo; - a faithful middle way that maintains both catholic substance and evangelical truth. Our faith is grounded in the foundational documents that have shaped Anglican Christianity for centuries:</p>
 <ul>
-<li><strong>The Book of Common Prayer</strong> (including the 1662 Catechism) - our guide for worship, doctrine, and spiritual formation</li>
+<li><strong>The Book of Common Prayer</strong> - our guide for worship, doctrine, and spiritual formation</li>
 <li><strong>The Thirty-Nine Articles of Religion</strong> - our doctrinal standards defining Anglican teaching</li>
 <li><strong>The Chicago-Lambeth Quadrilateral</strong> - the four essentials of Christian faith and order</li>
 </ul>
@@ -145,5 +150,36 @@
             </div>
         </div>
     </footer>
+    <script>
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileToggle = document.querySelector('.mobile-menu-toggle');
+            const navMenu = document.querySelector('.nav-menu');
+            
+            if (mobileToggle && navMenu) {
+                mobileToggle.addEventListener('click', function() {
+                    navMenu.classList.toggle('active');
+                    mobileToggle.classList.toggle('active');
+                });
+                
+                
+                const navLinks = navMenu.querySelectorAll('a');
+                navLinks.forEach(link => {
+                    link.addEventListener('click', function() {
+                        navMenu.classList.remove('active');
+                        mobileToggle.classList.remove('active');
+                    });
+                });
+                
+                
+                document.addEventListener('click', function(e) {
+                    if (!navMenu.contains(e.target) && !mobileToggle.contains(e.target)) {
+                        navMenu.classList.remove('active');
+                        mobileToggle.classList.remove('active');
+                    }
+                });
+            }
+        });
+    </script>
 </body>
 </html>

@@ -14,7 +14,7 @@ St. Matthew's Toledo is a welcoming Christian community committed to this callin
 ## Our Anglican Heritage
 As Anglicans, we embrace the "via media" - a faithful middle way that maintains both catholic substance and evangelical truth. Our faith is grounded in the foundational documents that have shaped Anglican Christianity for centuries:
 
-- **The Book of Common Prayer** (including the 1662 Catechism) - our guide for worship, doctrine, and spiritual formation
+- **The Book of Common Prayer** - our guide for worship, doctrine, and spiritual formation
 - **The Thirty-Nine Articles of Religion** - our doctrinal standards defining Anglican teaching
 - **The Chicago-Lambeth Quadrilateral** - the four essentials of Christian faith and order
 
