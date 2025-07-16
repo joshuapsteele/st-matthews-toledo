@@ -6,6 +6,13 @@
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <meta name="description" content="{{ .Site.Params.description }}">
 
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" | relURL }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
+    <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+
     <!-- Anglican Church colors and clean styling -->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
@@ -33,10 +40,17 @@
     <header>
         <nav>
             <div class="container">
-                <h1 class="site-title">
-                    <a href="{{ .Site.BaseURL }}">St. Matthew's Toledo</a>
-                </h1>
-                <p class="tagline">To know Christ and to make Him known</p>
+                <div class="site-header">
+                    <div class="logo-container">
+                        <img src="{{ "images/logo.png" | relURL }}" alt="St. Matthew's Church Logo" class="site-logo">
+                    </div>
+                    <div class="site-title-container">
+                        <h1 class="site-title">
+                            <a href="{{ .Site.BaseURL }}">St. Matthew's Toledo</a>
+                        </h1>
+                        <p class="tagline">To know Christ and to make Him known</p>
+                    </div>
+                </div>
                 <button class="mobile-menu-toggle" aria-label="Toggle navigation menu">
                     <span></span>
                     <span></span>
