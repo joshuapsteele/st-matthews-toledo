@@ -82,7 +82,7 @@ header::after {
 }
 
 .site-logo {
-    height: 80px;
+    height: 100px;
     width: auto;
     max-width: 400px;
     object-fit: contain;
@@ -624,8 +624,8 @@ footer::before {
     }
     
     .site-logo {
-        height: 70px;
-        max-width: 90%;
+        height: 100px;
+        max-width: 100%;
     }
     
     .nav-container {
@@ -743,8 +743,8 @@ footer::before {
     }
     
     .site-logo {
-        height: 60px;
-        max-width: 95%;
+        height: 100px;
+        max-width: 100%;
     }
     
     main {
