@@ -860,6 +860,81 @@ footer a:focus {
     height: 20px;
 }
 
+/* Nicene Creed Styling */
+.nicene-creed {
+    background: linear-gradient(135deg, var(--off-white) 0%, var(--warm-cream) 100%);
+    border: 2px solid var(--border-light);
+    border-radius: 8px;
+    padding: 2.5rem;
+    margin: 2rem 0;
+    position: relative;
+    box-shadow: 0 3px 15px var(--shadow-subtle);
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.8;
+}
+
+.nicene-creed::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--burgundy) 0%, var(--gold) 50%, var(--burgundy) 100%);
+    border-radius: 8px 8px 0 0;
+}
+
+.nicene-creed p {
+    margin: 1.2rem 0;
+    font-size: 1.15rem;
+    color: var(--text-dark);
+    max-width: none;
+    text-align: justify;
+    font-weight: 400;
+}
+
+.nicene-creed p:first-child {
+    margin-top: 0;
+}
+
+.nicene-creed p:last-child {
+    margin-bottom: 0;
+    text-align: right;
+    font-style: italic;
+    color: var(--burgundy);
+    font-weight: 500;
+}
+
+.nicene-creed em {
+    color: var(--burgundy);
+    font-style: italic;
+}
+
+/* Responsive adjustments for creed */
+@media (max-width: 768px) {
+    .nicene-creed {
+        padding: 2rem 1.5rem;
+        margin: 1.5rem 0;
+    }
+    
+    .nicene-creed p {
+        font-size: 1.1rem;
+        line-height: 1.7;
+    }
+}
+
+@media (max-width: 480px) {
+    .nicene-creed {
+        padding: 1.5rem 1rem;
+        margin: 1rem 0;
+    }
+    
+    .nicene-creed p {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+}
+
 /* Print styles */
 @media print {
     header, footer, .call-to-action, .social-links, .footer-social-links {
@@ -875,5 +950,12 @@ footer a:focus {
     .homepage {
         box-shadow: none;
         border: 1px solid #ccc;
+    }
+    
+    .nicene-creed {
+        background: white;
+        border: 2px solid #333;
+        box-shadow: none;
+        page-break-inside: avoid;
     }
 }
