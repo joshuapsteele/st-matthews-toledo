@@ -42,25 +42,23 @@
             <div class="container">
                 <div class="site-header">
                     <div class="logo-container">
-                        <img src="{{ "images/logo.png" | relURL }}" alt="St. Matthew's Church Logo" class="site-logo">
+                        <a href="{{ .Site.BaseURL }}">
+                            <img src="{{ "images/horizontal-logo.png" | relURL }}" alt="St. Matthew's Church - Toledo, OH" class="site-logo">
+                        </a>
                     </div>
-                    <div class="site-title-container">
-                        <h1 class="site-title">
-                            <a href="{{ .Site.BaseURL }}">St. Matthew's Toledo</a>
-                        </h1>
-                        <p class="tagline">To know Christ and to make Him known</p>
+                    <div class="nav-container">
+                        <button class="mobile-menu-toggle" aria-label="Toggle navigation menu">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                        <ul class="nav-menu">
+                            <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                            <li><a href="{{ "about" | relURL }}">About</a></li>
+                            <li><a href="{{ "contact" | relURL }}">Contact</a></li>
+                        </ul>
                     </div>
                 </div>
-                <button class="mobile-menu-toggle" aria-label="Toggle navigation menu">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </button>
-                <ul class="nav-menu">
-                    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-                    <li><a href="{{ "about" | relURL }}">About</a></li>
-                    <li><a href="{{ "contact" | relURL }}">Contact</a></li>
-                </ul>
             </div>
         </nav>
     </header>
