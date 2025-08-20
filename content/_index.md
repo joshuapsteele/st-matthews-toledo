@@ -57,7 +57,7 @@ Toledo, OH 43623](https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9)
 
 Stay connected with our community:
 
-Phone: <a href="tel:+15673430757">567-343-0757</a>  
+Phone: <a href="tel:+15673430757">(567) 343-0757</a>  
 Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
 
 <div class="social-links">
