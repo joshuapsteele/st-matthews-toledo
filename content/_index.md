@@ -33,7 +33,7 @@ We believe that all people are created in God's image and are welcome at St. Mat
 
 ## Getting Here
 
-We're meeting at Toledo First Seventh-day Adventist Church, 4909 W. Sylvania Ave. in Toledo, Ohio. Parking is available on-site, and the church is accessible to all visitors.
+We're meeting at Toledo First Seventh-day Adventist Church. Parking is available on-site, and the church is accessible to all visitors.
 
 **St. Matthew's Anglican Church**  
 (Meeting at Toledo First Seventh-day Adventist Church)  
