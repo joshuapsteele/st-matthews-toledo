@@ -25,7 +25,7 @@ If you're planning to visit us for the first time, here are a few things that mi
 
 - **What to expect:** Our worship follows the Anglican tradition with liturgy, hymns, modern songs, Scripture readings, a sermon, and Holy Communion
 - **What to wear:** Come as you are - we welcome people in all styles of dress
-- **Children:** We have a special children's ministry for ages 3 through high school during the 10:30 AM service
+- **Children:** We have a special children's ministry for ages 3 through high school during the 10:00 AM service
 - **Parking:** Free parking is available on-site
 - **Accessibility:** Our building is wheelchair accessible
 
