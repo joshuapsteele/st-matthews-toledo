@@ -9,13 +9,13 @@ draft: false
 <div class="worship-callout">
 <div class="worship-times">Sundays at 10:00 AM</div>
 <div class="worship-location">
-<a href="https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9">4909 W. Sylvania Ave.<br>
+<a href="https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9">Meeting at Toledo First Seventh-day Adventist Church<br>4909 W. Sylvania Ave.<br>
 Toledo, OH 43623</a>
 </div>
-<div class="children-service-note">*Children's ministry provided during the 10:00 service</div>
+<div class="children-service-note">Children's ministry provided during the 10:00 service, with children returning to their families for Holy Communion</div>
 </div>
 
-We're a welcoming Christian community in the Anglican tradition, located in Toledo, Ohio.
+We're a welcoming Christian community in [the Anglican tradition](https://www.adgl.us/what-is-anglicanism), located in Toledo, Ohio.
 
 Our mission is simple: **to know Christ and to make Him known**. We invite you to explore our site, learn about our faith, and consider joining us for worship.
 
@@ -77,3 +77,7 @@ Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
 
 **Father Zeke Coughlin, Rector**  
 Father Zeke leads our community with pastoral care, biblical teaching, and a heart for discipleship. He is available for pastoral care, spiritual guidance, and questions about the Christian faith. Please feel free to [contact us](/contact) to schedule a meeting.
+
+## Our Anglican Tradition
+
+Our church is a member of the [Anglican Diocese of the Great Lakes](https://www.adgl.us/) and the [Anglican Church in North America](https://www.anglicanchurch.net/).
