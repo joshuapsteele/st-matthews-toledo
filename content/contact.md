@@ -8,7 +8,7 @@ We would love to hear from you! Whether you have questions about our faith, want
 
 ## Church Information
 
-**St. Matthew's Toledo**  
+**St. Matthew's Anglican Church**  
 [5240 Talmadge Road  
 Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)
 

@@ -1,6 +1,6 @@
-# St. Matthew's Church Website
+# St. Matthew's Anglican Church Website
 
-A simple, welcoming Hugo website for St. Matthew's Church in Toledo, Ohio.
+A simple, welcoming Hugo website for St. Matthew's Anglican Church in Toledo, Ohio.
 
 ## Setup
 

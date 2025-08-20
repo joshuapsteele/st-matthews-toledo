@@ -1,5 +1,5 @@
 ---
-title: "Welcome to St. Matthew's Toledo"
+title: "Welcome to St. Matthew's Anglican Church"
 date: 2025-07-07
 draft: false
 ---
@@ -7,15 +7,15 @@ draft: false
 # To Know Christ and To Make Him Known
 
 <div class="worship-callout">
-<div class="worship-times">Sundays at 9:00 AM & 10:30* AM</div>
+<div class="worship-times">Sundays at 10:00 AM</div>
 <div class="worship-location">
-<a href="https://maps.app.goo.gl/nhw8tucEbHPXmDCs5">5240 Talmadge Road<br>
+<a href="https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9">4909 W. Sylvania Ave.<br>
 Toledo, OH 43623</a>
 </div>
-<div class="children-service-note">*Children's ministry provided during the 10:30 service</div>
+<div class="children-service-note">*Children's ministry provided during the 10:00 service</div>
 </div>
 
-We're a welcoming Christian community in the Anglican tradition, located in Toledo, Ohio. 
+We're a welcoming Christian community in the Anglican tradition, located in Toledo, Ohio.
 
 Our mission is simple: **to know Christ and to make Him known**. We invite you to explore our site, learn about our faith, and consider joining us for worship.
 
@@ -29,35 +29,36 @@ If you're planning to visit us for the first time, here are a few things that mi
 - **Parking:** Free parking is available on-site
 - **Accessibility:** Our building is wheelchair accessible
 
-We believe that all people are created in God's image and are welcome at St. Matthew's Toledo. We look forward to meeting you!
+We believe that all people are created in God's image and are welcome at St. Matthew's Anglican Church. We look forward to meeting you!
 
 ## Getting Here
 
-We're located on Talmadge Road in Toledo, Ohio. Parking is available on-site, and the church is accessible to all visitors.
+We're meeting at Toledo First Seventh-day Adventist Church, 4909 W. Sylvania Ave. in Toledo, Ohio. Parking is available on-site, and the church is accessible to all visitors.
 
-**St. Matthew's Toledo**  
-[5240 Talmadge Road  
-Toledo, OH 43623](https://maps.app.goo.gl/nhw8tucEbHPXmDCs5)  
+**St. Matthew's Anglican Church**  
+(Meeting at Toledo First Seventh-day Adventist Church)  
+[4909 W. Sylvania Ave.  
+Toledo, OH 43623](https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9)
 
 <div class="embedded-map">
-<iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2975.7348387!2d-83.6443802!3d41.7101462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883c7e50a635dcc7%3A0x205b8cb484e0b92c!2sSt%20Matthew's%20Episcopal%20Church!5e0!3m2!1sen!2sus!4v1625097600000!5m2!1sen!2sus"
-    width="100%"
-    height="300"
-    style="border:0;"
-    allowfullscreen=""
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    title="St. Matthew's Toledo Location">
-</iframe>
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d826.3143579810843!2d-83.6607669303469!3d41.690579098203976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883c7e938b9bf6b7%3A0xbfafaf54d788f37f!2s4909%20W%20Sylvania%20Ave%2C%20Toledo%2C%20OH%2043623!5e1!3m2!1sen!2sus!4v1755699141794!5m2!1sen!2sus" 
+        width="100%"
+        height="300"
+        style="border:0;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        title="St. Matthew's Anglican Church Location">
+    </iframe>
 </div>
 
 ## Connect With Us
 
 Stay connected with our community:
 
-Phone: <a href="tel:4194731187">(419) 473-1187</a>  
-Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>  
+Phone: <a href="tel:+15673430757">567-343-0757</a>  
+Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
 
 <div class="social-links">
 <a href="https://www.facebook.com/smechurch" target="_blank" rel="noopener" aria-label="Facebook">

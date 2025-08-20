@@ -1,9 +1,9 @@
 baseURL = 'https://stmatthewstoledo.org'
 languageCode = 'en-us'
-title = "St. Matthew's Church - Toledo, OH"
+title = "St. Matthew's Anglican Church - Toledo, OH"
 
 [params]
-  description = "Welcome to St. Matthew's Church in Toledo, Ohio. Join us for worship, fellowship, and community."
+  description = "Welcome to St. Matthew's Anglican Church in Toledo, Ohio. Join us for worship, fellowship, and community."
   phone = "(419) 473-1187"
   email = "stmatthews@bex.net"
   address = "5240 Talmadge Rd<br>Toledo, OH 43623"

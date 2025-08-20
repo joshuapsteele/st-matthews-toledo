@@ -104,7 +104,7 @@ Our worship follows the historic Anglican liturgy from the Book of Common Prayer
 
 ## Our Community
 
-We welcome people from all walks of life. Whether you're new to faith, returning to church, or have been a Christian for years, you'll find a place at St. Matthew's Toledo.
+We welcome people from all walks of life. Whether you're new to faith, returning to church, or have been a Christian for years, you'll find a place at St. Matthew's Anglican Church.
 
 We believe following Jesus requires both personal faith and community life. We encourage one another in faith, serve our neighbors in love, and seek to build up the Kingdom of God together.
 
