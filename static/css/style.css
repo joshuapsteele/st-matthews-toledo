@@ -582,6 +582,29 @@ footer::before {
     opacity: 0.9;
 }
 
+.footer-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.footer-logo {
+    height: 60px;
+    width: auto;
+    max-width: 120px;
+    object-fit: contain;
+    opacity: 0.9;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.2));
+}
+
+.footer-logo:hover {
+    opacity: 1;
+    transform: translateY(-2px);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .homepage {
@@ -761,6 +784,16 @@ footer::before {
     .footer-content {
         grid-template-columns: 1fr;
         gap: 2rem;
+    }
+    
+    .footer-logos {
+        gap: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .footer-logo {
+        height: 45px;
+        max-width: 90px;
     }
     
     .nav-menu li a {
