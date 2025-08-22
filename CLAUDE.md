@@ -54,7 +54,7 @@ The site deploys to Netlify automatically with these commands:
 - Pastor: Father Zeke Coughlin
 
 ### External Links
-- Facebook: facebook.com/smechurch
+- Facebook: facebook.com/people/St-Matthews-Anglican-Church-Toledo/61579296465664/
 - YouTube: youtube.com/@stmatthewsepiscopalchurcht6968
 - Google Maps embedded for location
 
