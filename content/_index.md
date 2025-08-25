@@ -58,7 +58,7 @@ Toledo, OH 43623](https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9)
 Stay connected with our community:
 
 Phone: <a href="tel:+15673430757">(567) 343-0757</a>  
-Email: <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
+Email: <a href="mailto:StMatthewsACT@gmail.com">StMatthewsACT@gmail.com</a>
 
 <div class="social-links">
 <a href="https://www.facebook.com/people/St-Matthews-Anglican-Church-Toledo/61579296465664/" target="_blank" rel="noopener" aria-label="Facebook">

@@ -49,7 +49,7 @@ The site deploys to Netlify automatically with these commands:
 
 ### Contact Details (from hugo.toml)
 - Phone: (419) 473-1187
-- Email: stmatthews@bex.net
+- Email: StMatthewsACT@gmail.com
 - Address: 5240 Talmadge Rd, Toledo, OH 43623
 - Pastor: Father Zeke Coughlin
 

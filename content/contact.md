@@ -14,7 +14,7 @@ We would love to hear from you! Whether you have questions about our faith, want
 Toledo, OH 43623](https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9)
 
 **Phone:** <a href="tel:+15673430757">(567) 343-0757</a>  
-**Email:** <a href="mailto:stmatthews@bex.net">stmatthews@bex.net</a>
+**Email:** <a href="mailto:StMatthewsACT@gmail.com">StMatthewsACT@gmail.com</a>
 
 ## Our Pastor
 
