@@ -15,6 +15,16 @@ Toledo, OH 43623</a>
 <div class="children-service-note">Children's ministry provided during the 10:00 service, with children returning to their families for Holy Communion</div>
 </div>
 
+<div class="special-notice">
+<strong>Christmas Eve Service</strong>
+<div class="special-notice-time">December 24, 6:00 PM</div>
+<div class="worship-location">
+<a href="https://maps.app.goo.gl/bHcNbWNqAHV7xmVh9">Toledo First Seventh-day Adventist Church<br>4909 W. Sylvania Ave.<br>
+Toledo, OH 43623</a>
+</div>
+<div class="special-notice-message">Join us as we celebrate the birth of our Savior.</div>
+</div>
+
 We're a welcoming Christian community in [the Anglican tradition](https://www.adgl.us/what-is-anglicanism), located in Toledo, Ohio.
 
 Our mission is simple: **to know Christ and to make Him known**. We invite you to explore our site, learn about our faith, and consider joining us for worship.

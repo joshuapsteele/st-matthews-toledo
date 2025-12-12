@@ -12,6 +12,7 @@
     --text-dark: #2c2c2c;
     --text-medium: #5a5a5a;
     --text-light: #8a8a8a;
+    --dark-purple: #770077;
     --white: #FFFFFF;
     --shadow-subtle: rgba(0, 0, 0, 0.08);
     --shadow-medium: rgba(0, 0, 0, 0.12);
@@ -463,6 +464,39 @@ main {
     font-style: italic;
 }
 
+/* Special Notice (e.g., Christmas Eve Service) */
+.special-notice {
+    background: var(--dark-purple);
+    color: var(--white);
+    padding: 2rem;
+    border-radius: 0;
+    text-align: center;
+    margin: 2rem 0 3rem 0;
+    box-shadow: 0 2px 12px var(--shadow-medium);
+    border-left: 4px solid var(--gold);
+    border-right: 4px solid var(--gold);
+}
+
+.special-notice strong {
+    display: block;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: var(--white);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+}
+
+.special-notice-time {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: var(--white);
+}
+
+.special-notice-message {
+    margin-top: 1.5rem;
+    color: var(--white);
+}
+
 .homepage ul {
     margin: 1rem 0;
     padding-left: 1.5rem;
@@ -731,13 +765,30 @@ footer::before {
         padding: 2rem 1.5rem;
         margin: 2rem 0 3rem 0;
     }
-    
+
     .worship-callout h2 {
         font-size: 1.8rem !important;
     }
-    
+
     .worship-times {
         font-size: 2rem;
+    }
+
+    .special-notice {
+        padding: 1.5rem 1rem;
+        margin: 1.5rem 0 2.5rem 0;
+    }
+
+    .special-notice strong {
+        font-size: 1.3rem;
+    }
+
+    .special-notice-time {
+        font-size: 1.1rem;
+    }
+
+    .special-notice-message {
+        margin-top: 1.25rem;
     }
 }
 
@@ -759,15 +810,32 @@ footer::before {
         padding: 2rem 1rem;
         margin: 2rem 0 2.5rem 0;
     }
-    
+
     .worship-callout h2 {
         font-size: 1.7rem !important;
     }
-    
+
     .worship-times {
         font-size: 1.8rem;
     }
-    
+
+    .special-notice {
+        padding: 1.25rem 0.75rem;
+        margin: 1.5rem 0 2rem 0;
+    }
+
+    .special-notice strong {
+        font-size: 1.2rem;
+    }
+
+    .special-notice-time {
+        font-size: 1rem;
+    }
+
+    .special-notice-message {
+        margin-top: 1rem;
+    }
+
     .site-logo {
         height: 100px;
         max-width: 100%;
